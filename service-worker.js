@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.3ad6a4aaf332175fe5946707b94125e3.js"
+  "/precache-manifest.7fdf2787e4edea687f2967d04cc91f45.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "epsi-gpe-2"});
